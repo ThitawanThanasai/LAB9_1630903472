@@ -1,4 +1,4 @@
 Thitawan Thanasai  
-CE312 Homework = Lab6  
+CE312 Homework = Lab9
 Section = 336B  
  
